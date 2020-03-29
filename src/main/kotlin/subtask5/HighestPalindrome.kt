@@ -1,5 +1,10 @@
 package subtask5
 
+
+//* n - the maximum number of changes allowed
+ //* k - the maximum number of changes allowed
+//* digitString - String of numbers that Sandy must attempt to make palindromic
+
 class HighestPalindrome {
 
     fun highestValuePalindrome(n: Int, k: Int, digitString: String): String {
